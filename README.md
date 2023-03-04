@@ -1,4 +1,4 @@
-# **ZoeDepth monocular depth estimation: Demo
+# ZoeDepth monocular depth estimation: Demo
 
 ## Installation
 
